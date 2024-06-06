@@ -1,0 +1,9 @@
+.file {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0;
+}
+.btn-edit {
+    margin: 50px;
+}
